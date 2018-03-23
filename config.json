@@ -10,6 +10,11 @@
         "loginId": "1758799",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "cirklon.com"
+        "cookiedomain": "cirklon.com",
+        "player": {
+            "playback": {
+                "autonext": true
+            }
+        }
     }
 }
