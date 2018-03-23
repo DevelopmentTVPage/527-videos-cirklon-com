@@ -1,0 +1,64 @@
+{
+    "title": "Specialty Brew on the Ninja Coffee Bar\u2122",
+    "description": "Making a concentrated amount of coffee perfect for hot, layered specialty drinks like cappuccinos or frozen blended specialty drinks, using the Specialty Brew function.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+    "referenceId": "N-CaAioJDvk",
+    "date_created": "1440690702",
+    "date_modified": "1515018882",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "pending",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "328",
+    "CVV_VI": null,
+    "engagement_score": "1",
+    "conversion_score": null,
+    "id": "83094535",
+    "loginId": "1758799",
+    "entityType": "1",
+    "sortOrder": "14",
+    "entityIdParent": "83093931",
+    "titleTextEncoded": "Specialty-Brew-on-the-Ninja-Coffee-Bar",
+    "category": "",
+    "duration": 235,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/N-CaAioJDvk\/hqdefault.jpg",
+        "uploadDate": 1440690702,
+        "videoId": "N-CaAioJDvk",
+        "title": "Specialty Brew on the Ninja Coffee Bar\u2122",
+        "description": "Making a concentrated amount of coffee perfect for hot, layered specialty drinks like cappuccinos or frozen blended specialty drinks, using the Specialty Brew function.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+        "author": "Ninja Coffee Bar",
+        "mediaDuration": 235,
+        "prettyDuration": "00:03:55",
+        "views": "9833",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-12-17"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "4",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 8290.406,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1898"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 8945.641
+}

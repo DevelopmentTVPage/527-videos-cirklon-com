@@ -1,0 +1,65 @@
+{
+    "title": "Perfecting your Iced Coffee",
+    "description": "Take advantage of the Ninja Coffee Bar\u2122 brewer\u2019s Over-Ice Brew by using the right amount of the right ice. \n\nFor more information, visit http:\/\/bit.ly\/2cQl07J",
+    "referenceId": "mNUykALc_5Y",
+    "date_created": "1474983984",
+    "date_modified": "1515018845",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "pending",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": "coffee",
+    "video_type": "tutorial",
+    "VV_VI": "1954",
+    "CVV_VI": null,
+    "engagement_score": "7",
+    "conversion_score": null,
+    "id": "83094489",
+    "loginId": "1758799",
+    "entityType": "1",
+    "sortOrder": "12",
+    "entityIdParent": "83093931",
+    "titleTextEncoded": "Perfecting-your-Iced-Coffee",
+    "category": "",
+    "duration": 26,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/mNUykALc_5Y\/hqdefault.jpg",
+        "uploadDate": 1474983984,
+        "videoId": "mNUykALc_5Y",
+        "title": "Perfecting your Iced Coffee",
+        "description": "Take advantage of the Ninja Coffee Bar\u2122 brewer\u2019s Over-Ice Brew by using the right amount of the right ice. \n\nFor more information, visit http:\/\/bit.ly\/2cQl07J",
+        "author": "Ninja Coffee Bar",
+        "mediaDuration": 26,
+        "prettyDuration": "00:00:26",
+        "views": "884",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-12-17"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "18",
+        "25",
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 683.3216,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1898"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 449.278
+}
