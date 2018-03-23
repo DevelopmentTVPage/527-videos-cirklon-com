@@ -24,7 +24,8 @@
                     "google-plus",
                     "linkedin",
                     "email"
-                ]
+                ],
+                "domain": "videos.cirklon.com"
             }
         },
         "hub": {
