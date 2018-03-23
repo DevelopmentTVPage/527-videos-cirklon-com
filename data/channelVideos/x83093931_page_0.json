@@ -1,0 +1,705 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "136358821",
+            "title": "Making an Iced Mocha Latte with the Ninja Coffee Bar\u2122",
+            "date_created": "1515021632",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Greg shows you how easy it is to make a refreshing iced mocha latte, just one of Ninja\u2019s many cold specialty drinks.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "113",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "113",
+                "prettyDuration": "00:01:53",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136358821\/06cb1\/thumb-1a23b8909e0b5d0159735ed9eb17af6d-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758799\/136358821\/06cb1\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758799\/136358821\/06cb1\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136358821\/06cb1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136358821\/06cb1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136358821\/06cb1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136358821\/06cb1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136358821\/06cb1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "83093931",
+            "url": "\/ninja-coffee-bar\/making-an-iced-mocha-latte-with-the-ninja-coffee-bar-mp4\/83093931-136358821"
+        },
+        {
+            "id": "136358820",
+            "title": "Making a Mochaccino with the Ninja Coffee Bar\u2122",
+            "date_created": "1515021625",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Greg shows you how easy it is to make a delicious mochaccino, just one of Ninja\u2019s many frozen blended specialty drinks.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "130",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "130",
+                "prettyDuration": "00:02:10",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136358820\/b6e01\/thumb-693b9e25cdbe71f5c0644000ba6fc037-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758799\/136358820\/b6e01\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758799\/136358820\/b6e01\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136358820\/b6e01\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136358820\/b6e01\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136358820\/b6e01\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136358820\/b6e01\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136358820\/b6e01\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "83093931",
+            "url": "\/ninja-coffee-bar\/making-a-mochaccino-with-the-ninja-coffee-bar-mp4\/83093931-136358820"
+        },
+        {
+            "id": "136357814",
+            "title": "Specialty Brew on the Ninja Coffee Bar\u2122",
+            "date_created": "1515018172",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Making a concentrated amount of coffee perfect for hot, layered specialty drinks like cappuccinos or frozen blended specialty drinks, using the Specialty Brew function.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "235",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "235",
+                "prettyDuration": "00:03:55",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136357814\/ff5c4\/thumb-4aa8f3fbd0b2899bd5c463ca3f790cd1-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758799\/136357814\/ff5c4\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357814\/ff5c4\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357814\/ff5c4\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357814\/ff5c4\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357814\/ff5c4\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357814\/ff5c4\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357814\/ff5c4\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "83093931",
+            "url": "\/ninja-coffee-bar\/specialty-brew-on-the-ninja-coffee-bar-mp4\/83093931-136357814"
+        },
+        {
+            "id": "136357807",
+            "title": "Classic Brew on the Ninja Coffee Bar\u2122",
+            "date_created": "1515018092",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Making a rich, hot cup (or carafe) of delicious coffee using the Classic Brew function.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "248",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "248",
+                "prettyDuration": "00:04:08",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136357807\/4ac62\/thumb-b242474f6a236d0f44ec5a5481c954ba-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758799\/136357807\/4ac62\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357807\/4ac62\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357807\/4ac62\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357807\/4ac62\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357807\/4ac62\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357807\/4ac62\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357807\/4ac62\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "83093931",
+            "url": "\/ninja-coffee-bar\/classic-brew-on-the-ninja-coffee-bar-mp4\/83093931-136357807"
+        },
+        {
+            "id": "136357813",
+            "title": "Perfecting your Iced Coffee",
+            "date_created": "1515018160",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Take advantage of the Ninja Coffee Bar\u2122 brewer\u2019s Over-Ice Brew by using the right amount of the right ice. \n\nFor more information, visit http:\/\/bit.ly\/2cQl07J",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "27",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "27",
+                "prettyDuration": "00:00:27",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758799\/canvas\/480\/269\/189307651-046480315.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758799\/136357813\/1d00a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357813\/1d00a\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357813\/1d00a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357813\/1d00a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357813\/1d00a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357813\/1d00a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357813\/1d00a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "83093931",
+            "url": "\/ninja-coffee-bar\/perfecting-your-iced-coffee-mp4\/83093931-136357813"
+        },
+        {
+            "id": "136357806",
+            "title": "Understanding Brew Sizes",
+            "date_created": "1515018081",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Make sure your mug is up to the task. Learn more about the Ninja Coffee Bar\u2122 brewer\u2019s brew sizes here. \n\nFor more information, visit http:\/\/bit.ly\/2cQl07J",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "55",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "55",
+                "prettyDuration": "00:00:55",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758799\/canvas\/480\/269\/523654735-046480315.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758799\/136357806\/374cf\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357806\/374cf\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357806\/374cf\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357806\/374cf\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357806\/374cf\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357806\/374cf\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357806\/374cf\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "83093931",
+            "url": "\/ninja-coffee-bar\/understanding-brew-sizes-mp4\/83093931-136357806"
+        },
+        {
+            "id": "83094528",
+            "title": "Making a Cappuccino-Style Drink with the Ninja Coffee Bar\u2122",
+            "date_created": "1440690668",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Making a Cappuccino-Style Drink with the Ninja Coffee Bar\u2122\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CplRxNlZ6sc\/hqdefault.jpg",
+                "uploadDate": 1440690668,
+                "videoId": "CplRxNlZ6sc",
+                "title": "Making a Cappuccino-Style Drink with the Ninja Coffee Bar\u2122",
+                "description": "Making a Cappuccino-Style Drink with the Ninja Coffee Bar\u2122\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+                "author": "Ninja Coffee Bar",
+                "mediaDuration": 130,
+                "prettyDuration": "00:02:10",
+                "views": "21440"
+            },
+            "parentId": "83093931",
+            "url": "\/ninja-coffee-bar\/making-a-cappuccino-style-drink-with-the-ninja-coffee-bar\/83093931-83094528"
+        },
+        {
+            "id": "83094521",
+            "title": "Classic Brew on the Ninja Coffee Bar\u2122",
+            "date_created": "1440690629",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Making a rich, hot cup (or carafe) of delicious coffee using the Classic Brew function.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/46_AltLvC64\/hqdefault.jpg",
+                "uploadDate": 1440690629,
+                "videoId": "46_AltLvC64",
+                "title": "Classic Brew on the Ninja Coffee Bar\u2122",
+                "description": "Making a rich, hot cup (or carafe) of delicious coffee using the Classic Brew function.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+                "author": "Ninja Coffee Bar",
+                "mediaDuration": 248,
+                "prettyDuration": "00:04:08",
+                "views": "6281",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "83093931",
+            "url": "\/ninja-coffee-bar\/classic-brew-on-the-ninja-coffee-bar\/83093931-83094521"
+        },
+        {
+            "id": "83094522",
+            "title": "Introduction to the Ninja Coffee Bar\u2122",
+            "date_created": "1440690635",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Choose a Size, Choose a Brew\u2014the Ninja Coffee Bar is the best coffeehouse in town right on your counter.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/9rZtGmMf_ws\/hqdefault.jpg",
+                "uploadDate": 1440690635,
+                "videoId": "9rZtGmMf_ws",
+                "title": "Introduction to the Ninja Coffee Bar\u2122",
+                "description": "Choose a Size, Choose a Brew\u2014the Ninja Coffee Bar is the best coffeehouse in town right on your counter.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+                "author": "Ninja Coffee Bar",
+                "mediaDuration": 308,
+                "prettyDuration": "00:05:08",
+                "views": "70958"
+            },
+            "parentId": "83093931",
+            "url": "\/ninja-coffee-bar\/introduction-to-the-ninja-coffee-bar\/83093931-83094522"
+        },
+        {
+            "id": "83094487",
+            "title": "Priming your Ninja Coffee Bar\u2122",
+            "date_created": "1474983983",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "For best results, it is important to prime and flush your Ninja Coffee Bar\u2122 before you brew your first pot. \n\nFor more information, visit http:\/\/bit.ly\/2cQl07J",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/HmBS7baB6L0\/hqdefault.jpg",
+                "uploadDate": 1474983983,
+                "videoId": "HmBS7baB6L0",
+                "title": "Priming your Ninja Coffee Bar\u2122",
+                "description": "For best results, it is important to prime and flush your Ninja Coffee Bar\u2122 before you brew your first pot. \n\nFor more information, visit http:\/\/bit.ly\/2cQl07J",
+                "author": "Ninja Coffee Bar",
+                "mediaDuration": 32,
+                "prettyDuration": "00:00:32",
+                "views": "1458"
+            },
+            "parentId": "83093931",
+            "url": "\/ninja-coffee-bar\/priming-your-ninja-coffee-bar\/83093931-83094487"
+        },
+        {
+            "id": "83094490",
+            "title": "Understanding Brew Sizes Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean malesuada odio id imperdiet tempus. Curabitur quis velit eu odio euismod ullamcorper. Ut et finibus mauris. Integer feugiat viverra dolor. Phasellus iaculis sodales n",
+            "date_created": "1474983985",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Make sure your mug is up to the task. Learn more about the Ninja Coffee Bar\u2122 brewer\u2019s brew sizes here. \n\nFor more information, visit http:\/\/bit.ly\/2cQl07J",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/oIgZFi8M0d0\/hqdefault.jpg",
+                "uploadDate": 1474983985,
+                "videoId": "oIgZFi8M0d0",
+                "title": "Understanding Brew Sizes",
+                "description": "Make sure your mug is up to the task. Learn more about the Ninja Coffee Bar\u2122 brewer\u2019s brew sizes here. \n\nFor more information, visit http:\/\/bit.ly\/2cQl07J",
+                "author": "Ninja Coffee Bar",
+                "mediaDuration": 54,
+                "prettyDuration": "00:00:54",
+                "views": "573",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "83093931",
+            "url": "\/ninja-coffee-bar\/understanding-brew-sizes\/83093931-83094490"
+        },
+        {
+            "id": "83094496",
+            "title": "All About the Ninja Coffee Bar\u2122 Drip Stop",
+            "date_created": "1474983991",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "The Drip Stop helps you enjoy your coffee experience in more ways than you might think. \n\nFor more information, visit http:\/\/bit.ly\/2cQl07J",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/PFH_3I4oBTU\/hqdefault.jpg",
+                "uploadDate": 1474983991,
+                "videoId": "PFH_3I4oBTU",
+                "title": "All About the Ninja Coffee Bar\u2122 Drip Stop",
+                "description": "The Drip Stop helps you enjoy your coffee experience in more ways than you might think. \n\nFor more information, visit http:\/\/bit.ly\/2cQl07J",
+                "author": "Ninja Coffee Bar",
+                "mediaDuration": 37,
+                "prettyDuration": "00:00:37",
+                "views": "471"
+            },
+            "parentId": "83093931",
+            "url": "\/ninja-coffee-bar\/all-about-the-ninja-coffee-bar-drip-stop\/83093931-83094496"
+        },
+        {
+            "id": "83094489",
+            "title": "Perfecting your Iced Coffee",
+            "date_created": "1474983984",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Take advantage of the Ninja Coffee Bar\u2122 brewer\u2019s Over-Ice Brew by using the right amount of the right ice. \n\nFor more information, visit http:\/\/bit.ly\/2cQl07J",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/mNUykALc_5Y\/hqdefault.jpg",
+                "uploadDate": 1474983984,
+                "videoId": "mNUykALc_5Y",
+                "title": "Perfecting your Iced Coffee",
+                "description": "Take advantage of the Ninja Coffee Bar\u2122 brewer\u2019s Over-Ice Brew by using the right amount of the right ice. \n\nFor more information, visit http:\/\/bit.ly\/2cQl07J",
+                "author": "Ninja Coffee Bar",
+                "mediaDuration": 26,
+                "prettyDuration": "00:00:26",
+                "views": "884",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "83093931",
+            "url": "\/ninja-coffee-bar\/perfecting-your-iced-coffee\/83093931-83094489"
+        },
+        {
+            "id": "83094505",
+            "title": "Introducing the Ninja Coffee Bar\u00ae System",
+            "date_created": "1474913768",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "The Ninja Coffee Bar System now offers five brew types in six different size options, and also features a built-in frother. A better than a coffeehouse experience, at home. \n\nLearn more about the Ninja Coffee Bar System at NinjaCoffeeBar.com",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/YzAUSbFc-XM\/hqdefault.jpg",
+                "uploadDate": 1474913768,
+                "videoId": "YzAUSbFc-XM",
+                "title": "Introducing the Ninja Coffee Bar\u00ae System",
+                "description": "The Ninja Coffee Bar System now offers five brew types in six different size options, and also features a built-in frother. A better than a coffeehouse experience, at home. \n\nLearn more about the Ninja Coffee Bar System at NinjaCoffeeBar.com",
+                "author": "Ninja Coffee Bar",
+                "mediaDuration": 52,
+                "prettyDuration": "00:00:52",
+                "views": "6868"
+            },
+            "parentId": "83093931",
+            "url": "\/ninja-coffee-bar\/introducing-the-ninja-coffee-bar-system\/83093931-83094505"
+        },
+        {
+            "id": "83094535",
+            "title": "Specialty Brew on the Ninja Coffee Bar\u2122",
+            "date_created": "1440690702",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Making a concentrated amount of coffee perfect for hot, layered specialty drinks like cappuccinos or frozen blended specialty drinks, using the Specialty Brew function.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/N-CaAioJDvk\/hqdefault.jpg",
+                "uploadDate": 1440690702,
+                "videoId": "N-CaAioJDvk",
+                "title": "Specialty Brew on the Ninja Coffee Bar\u2122",
+                "description": "Making a concentrated amount of coffee perfect for hot, layered specialty drinks like cappuccinos or frozen blended specialty drinks, using the Specialty Brew function.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+                "author": "Ninja Coffee Bar",
+                "mediaDuration": 235,
+                "prettyDuration": "00:03:55",
+                "views": "9833",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "83093931",
+            "url": "\/ninja-coffee-bar\/specialty-brew-on-the-ninja-coffee-bar\/83093931-83094535"
+        },
+        {
+            "id": "83094524",
+            "title": "Making a Caramel Macchiato with the Ninja Coffee Bar\u2122",
+            "date_created": "1440690644",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Greg shows you how easy it is to make a decadent caramel macchiato, just one of Ninja\u2019s many hot specialty drinks.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/4rwYYcSMUok\/hqdefault.jpg",
+                "uploadDate": 1440690644,
+                "videoId": "4rwYYcSMUok",
+                "title": "Making a Caramel Macchiato with the Ninja Coffee Bar\u2122",
+                "description": "Greg shows you how easy it is to make a decadent caramel macchiato, just one of Ninja\u2019s many hot specialty drinks.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+                "author": "Ninja Coffee Bar",
+                "mediaDuration": 126,
+                "prettyDuration": "00:02:06",
+                "views": "70431"
+            },
+            "parentId": "83093931",
+            "url": "\/ninja-coffee-bar\/making-a-caramel-macchiato-with-the-ninja-coffee-bar\/83093931-83094524"
+        },
+        {
+            "id": "83094527",
+            "title": "Making an Iced Mocha Latte with the Ninja Coffee Bar\u2122",
+            "date_created": "1440690663",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Greg shows you how easy it is to make a refreshing iced mocha latte, just one of Ninja\u2019s many cold specialty drinks.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/S2gWY6zBcR0\/hqdefault.jpg",
+                "uploadDate": 1440690663,
+                "videoId": "S2gWY6zBcR0",
+                "title": "Making an Iced Mocha Latte with the Ninja Coffee Bar\u2122",
+                "description": "Greg shows you how easy it is to make a refreshing iced mocha latte, just one of Ninja\u2019s many cold specialty drinks.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+                "author": "Ninja Coffee Bar",
+                "mediaDuration": 113,
+                "prettyDuration": "00:01:53",
+                "views": "56427",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "83093931",
+            "url": "\/ninja-coffee-bar\/making-an-iced-mocha-latte-with-the-ninja-coffee-bar\/83093931-83094527"
+        },
+        {
+            "id": "83094531",
+            "title": "Using the Ninja Easy Frother\u2122",
+            "date_created": "1440690682",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Easily transform milk into rich, creamy foam perfect for your favorite Ninja Coffee Bar\u2122 specialty drinks like caramel macchiatos and flat whites.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/MPl1bF_0Dik\/hqdefault.jpg",
+                "uploadDate": 1440690682,
+                "videoId": "MPl1bF_0Dik",
+                "title": "Using the Ninja Easy Frother\u2122",
+                "description": "Easily transform milk into rich, creamy foam perfect for your favorite Ninja Coffee Bar\u2122 specialty drinks like caramel macchiatos and flat whites.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+                "author": "Ninja Coffee Bar",
+                "mediaDuration": 184,
+                "prettyDuration": "00:03:04",
+                "views": "26752"
+            },
+            "parentId": "83093931",
+            "url": "\/ninja-coffee-bar\/using-the-ninja-easy-frother\/83093931-83094531"
+        },
+        {
+            "id": "83094526",
+            "title": "Making a Mochaccino with the Ninja Coffee Bar\u2122",
+            "date_created": "1440690656",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Greg shows you how easy it is to make a delicious mochaccino, just one of Ninja\u2019s many frozen blended specialty drinks.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/NGpEQvh5Qn0\/hqdefault.jpg",
+                "uploadDate": 1440690656,
+                "videoId": "NGpEQvh5Qn0",
+                "title": "Making a Mochaccino with the Ninja Coffee Bar\u2122",
+                "description": "Greg shows you how easy it is to make a delicious mochaccino, just one of Ninja\u2019s many frozen blended specialty drinks.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+                "author": "Ninja Coffee Bar",
+                "mediaDuration": 129,
+                "prettyDuration": "00:02:09",
+                "views": "22624",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "83093931",
+            "url": "\/ninja-coffee-bar\/making-a-mochaccino-with-the-ninja-coffee-bar\/83093931-83094526"
+        }
+    ]
+}

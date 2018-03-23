@@ -1,0 +1,773 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "136361830",
+            "title": "Mr. Coffee\u00ae Pump Espresso Maker - ECMP50-RB -  How to Brew",
+            "date_created": "1515023048",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Make espresso, cappuccino and lattes like a true barista. The Mr. Coffee\u00ae Caf\u00e9 Espresso uses a 15-bar pump system that brews rich, creme-topped espresso with impressive results and milk froth for creamy cappuccinos and lattes.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "61",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "61",
+                "prettyDuration": "00:01:01",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136361830\/9b2fb\/thumb-f0b15b80464f0afd1212eb8a94e00409-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758799\/136361830\/9b2fb\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758799\/136361830\/9b2fb\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136361830\/9b2fb\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136361830\/9b2fb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136361830\/9b2fb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136361830\/9b2fb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136361830\/9b2fb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "83093935",
+            "url": "\/mr-coffee\/mr-coffee-pump-espresso-maker-ecmp50-rb-how-to-brew-mp4\/83093935-136361830"
+        },
+        {
+            "id": "136361829",
+            "title": "Mr. Coffee\u00ae Espresso Maker -  Making Capuccino & Latte",
+            "date_created": "1515023042",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Make espresso, cappuccino and lattes like a true barista. The Mr. Coffee\u00ae Caf\u00e9 Espresso uses a 15-bar pump system that brews rich, creme-topped espresso with impressive results and milk froth for creamy cappuccinos and lattes.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "68",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "68",
+                "prettyDuration": "00:01:08",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136361829\/d138b\/thumb-67ebad18885b913841d2992e0ecad419-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758799\/136361829\/d138b\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758799\/136361829\/d138b\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136361829\/d138b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136361829\/d138b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136361829\/d138b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136361829\/d138b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136361829\/d138b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "83093935",
+            "url": "\/mr-coffee\/mr-coffee-espresso-maker-making-capuccino-latte-mp4\/83093935-136361829"
+        },
+        {
+            "id": "136358822",
+            "title": "Mr. Coffee\u00ae Single Cup Coffeemaker with Built-in Grinder Raspberries Cream Iced Coffee.mp4",
+            "date_created": "1515021635",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "On-the-Go has never tasted so delicious! This Single Cup brewer is now available with an enhanced built-in-grinder, creating the most fresh and flavorful single cup of coffee available as you rush off to start the day.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "35",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "35",
+                "prettyDuration": "00:00:35",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758799\/canvas\/480\/269\/271569828-046480315.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758799\/136358822\/43740\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758799\/136358822\/43740\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136358822\/43740\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136358822\/43740\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136358822\/43740\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136358822\/43740\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136358822\/43740\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "83093935",
+            "url": "\/mr-coffee\/mr-coffee-single-cup-coffeemaker-with-built-in-grinder-raspberries-cream-iced-coffee-mp4\/83093935-136358822"
+        },
+        {
+            "id": "136357811",
+            "title": "Mr. Coffee\u00ae Optimal Brew",
+            "date_created": "1515018155",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Engineered for the art of brewing deep, rich, better-tasting coffee, this coffee maker is designed for coffee connoisseurs who sacrifice nothing when it comes to the optimal coffee experience.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "52",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "52",
+                "prettyDuration": "00:00:52",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136357811\/f8671\/thumb-cc1898f6117ef3022152da9931b57765-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758799\/136357811\/f8671\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357811\/f8671\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357811\/f8671\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357811\/f8671\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357811\/f8671\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357811\/f8671\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357811\/f8671\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "83093935",
+            "url": "\/mr-coffee\/mr-coffee-optimal-brew-1-mp4\/83093935-136357811"
+        },
+        {
+            "id": "136357812",
+            "title": "Mr. Coffee\u00ae Tea Maker and Kettle",
+            "date_created": "1515018158",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "A must-have for tea lovers who enjoy the ultimate at-home steeping experience using loose tea leaves or tea bags!\nThis Mr. Coffee\u00ae Tea Maker + Kettle creates delicious, custom flavor tea infusions with exactness of taste, depending on the type of tea.  As a kettle you can boil water to create instant beverages and meals.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "42",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "42",
+                "prettyDuration": "00:00:42",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758799\/canvas\/480\/269\/830447493-046480315.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758799\/136357812\/8041d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357812\/8041d\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357812\/8041d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357812\/8041d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357812\/8041d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357812\/8041d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357812\/8041d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "83093935",
+            "url": "\/mr-coffee\/mr-coffee-tea-maker-and-kettle-1-mp4\/83093935-136357812"
+        },
+        {
+            "id": "136357790",
+            "title": "Mr. Coffee\u00ae - Experience the Taste",
+            "date_created": "1515013791",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "For us, bringing a rich coffee experience into your home has always been our obsession.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "52",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "52",
+                "prettyDuration": "00:00:52",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758799\/canvas\/480\/269\/820464913-046480315.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758799\/136357790\/00c5e\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357790\/00c5e\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357790\/00c5e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357790\/00c5e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357790\/00c5e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357790\/00c5e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357790\/00c5e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "83093935",
+            "url": "\/mr-coffee\/mr-coffee-experience-the-taste-mp4\/83093935-136357790"
+        },
+        {
+            "id": "136357791",
+            "title": "Mr. Coffee\u00ae 12-Cup Programmable Coffee Maker and Hot Water Dispenser, BVMC-DMX85",
+            "date_created": "1515013794",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "For households that need everything, from fresh coffee to hot tea to instant meals, you can brew rich-tasting coffee plus, dispense hot water with a simple press of the lever!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "56",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "56",
+                "prettyDuration": "00:00:56",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136357791\/d3ba5\/thumb-5f3b9831f3f4d99465a3147b0160c925-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758799\/136357791\/d3ba5\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357791\/d3ba5\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357791\/d3ba5\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357791\/d3ba5\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357791\/d3ba5\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357791\/d3ba5\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357791\/d3ba5\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "83093935",
+            "url": "\/mr-coffee\/mr-coffee-12-cup-programmable-coffee-maker-and-hot-water-dispenser-bvmc-dmx85-mp4\/83093935-136357791"
+        },
+        {
+            "id": "136357789",
+            "title": "Mr. Coffee Cafe Barista - First Use",
+            "date_created": "1515013784",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Be your own Barista! Enjoy bold espressos, rich cappuccinos and decadent lattes in one simple touch with the Mr. Coffee\u00ae Caf\u00e9 Barista 15-bar pump espresso maker.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "129",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "129",
+                "prettyDuration": "00:02:09",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136357789\/332f9\/thumb-001bff0f66ef68504610a992db4ef373-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758799\/136357789\/332f9\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357789\/332f9\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357789\/332f9\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357789\/332f9\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357789\/332f9\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357789\/332f9\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357789\/332f9\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "83093935",
+            "url": "\/mr-coffee\/mr-coffee-cafe-barista-first-use-mp4\/83093935-136357789"
+        },
+        {
+            "id": "83095023",
+            "title": "Mr. Coffee\u00ae Caf\u00e9 Barista - Out of the Box",
+            "date_created": "1429548260",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Be your own Barista! Enjoy bold espressos, rich cappuccinos and decadent lattes in one simple touch with the Mr. Coffee\u00ae Caf\u00e9 Barista 15-bar pump espresso maker.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/z5f081eJyg0\/hqdefault.jpg",
+                "uploadDate": 1429548260,
+                "videoId": "z5f081eJyg0",
+                "title": "Mr. Coffee\u00ae Caf\u00e9 Barista - Out of the Box",
+                "description": "Be your own Barista! Enjoy bold espressos, rich cappuccinos and decadent lattes in one simple touch with the Mr. Coffee\u00ae Caf\u00e9 Barista 15-bar pump espresso maker.",
+                "author": "Mr. Coffee",
+                "mediaDuration": 75,
+                "prettyDuration": "00:01:15",
+                "views": "193"
+            },
+            "parentId": "83093935",
+            "url": "\/mr-coffee\/mr-coffee-caf\u00e9-barista-out-of-the-box\/83093935-83095023"
+        },
+        {
+            "id": "83095025",
+            "title": "Mr. Coffee\u00ae Caf\u00e9 Barista - Priming",
+            "date_created": "1429548260",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Be your own Barista! Enjoy bold espressos, rich cappuccinos and decadent lattes in one simple touch with the Mr. Coffee\u00ae Caf\u00e9 Barista 15-bar pump espresso maker.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/kuDELvis1FU\/hqdefault.jpg",
+                "uploadDate": 1429548260,
+                "videoId": "kuDELvis1FU",
+                "title": "Mr. Coffee\u00ae Caf\u00e9 Barista - Priming",
+                "description": "Be your own Barista! Enjoy bold espressos, rich cappuccinos and decadent lattes in one simple touch with the Mr. Coffee\u00ae Caf\u00e9 Barista 15-bar pump espresso maker.",
+                "author": "Mr. Coffee",
+                "mediaDuration": 126,
+                "prettyDuration": "00:02:06",
+                "views": "5207"
+            },
+            "parentId": "83093935",
+            "url": "\/mr-coffee\/mr-coffee-caf\u00e9-barista-priming\/83093935-83095025"
+        },
+        {
+            "id": "83094963",
+            "title": "At home or on-the-go?",
+            "date_created": "1462558184",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Coffee at home or on-the-go? You Brew You with the Mr. Coffee\u00ae Single Cup Coffeemaker with Built-in Grinder.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/0xo8WBpiOxg\/hqdefault.jpg",
+                "uploadDate": 1462558184,
+                "videoId": "0xo8WBpiOxg",
+                "title": "At home or on-the-go?",
+                "description": "Coffee at home or on-the-go? You Brew You with the Mr. Coffee\u00ae Single Cup Coffeemaker with Built-in Grinder.",
+                "author": "Mr. Coffee",
+                "mediaDuration": 26,
+                "prettyDuration": "00:00:26",
+                "views": "74"
+            },
+            "parentId": "83093935",
+            "url": "\/mr-coffee\/at-home-or-on-the-go\/83093935-83094963"
+        },
+        {
+            "id": "83095037",
+            "title": "Mr. Coffee\u00ae - Experience the Taste",
+            "date_created": "1429041303",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "For us, bringing a rich coffee experience into your home has always been our obsession.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/EtsWZpuo5Uo\/hqdefault.jpg",
+                "uploadDate": 1429041303,
+                "videoId": "EtsWZpuo5Uo",
+                "title": "Mr. Coffee\u00ae - Experience the Taste",
+                "description": "For us, bringing a rich coffee experience into your home has always been our obsession.",
+                "author": "Mr. Coffee",
+                "mediaDuration": 51,
+                "prettyDuration": "00:00:51",
+                "views": "468",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "83093935",
+            "url": "\/mr-coffee\/mr-coffee-experience-the-taste\/83093935-83095037"
+        },
+        {
+            "id": "83095033",
+            "title": "Mr. Coffee\u00ae Optimal Brew",
+            "date_created": "1429125094",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Engineered for the art of brewing deep, rich, better-tasting coffee, this coffee maker is designed for coffee connoisseurs who sacrifice nothing when it comes to the optimal coffee experience.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Ic1yEjKtOWk\/hqdefault.jpg",
+                "uploadDate": 1429125094,
+                "videoId": "Ic1yEjKtOWk",
+                "title": "Mr. Coffee\u00ae Optimal Brew",
+                "description": "Engineered for the art of brewing deep, rich, better-tasting coffee, this coffee maker is designed for coffee connoisseurs who sacrifice nothing when it comes to the optimal coffee experience.",
+                "author": "Mr. Coffee",
+                "mediaDuration": 51,
+                "prettyDuration": "00:00:51",
+                "views": "3733",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "83093935",
+            "url": "\/mr-coffee\/mr-coffee-optimal-brew\/83093935-83095033"
+        },
+        {
+            "id": "83094967",
+            "title": "Mr. Coffee\u00ae Espresso Maker -  Making Capuccino & Latte",
+            "date_created": "1461084909",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Make espresso, cappuccino and lattes like a true barista. The Mr. Coffee\u00ae Caf\u00e9 Espresso uses a 15-bar pump system that brews rich, creme-topped espresso with impressive results and milk froth for creamy cappuccinos and lattes.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/EcbYriF74-c\/hqdefault.jpg",
+                "uploadDate": 1461084909,
+                "videoId": "EcbYriF74-c",
+                "title": "Mr. Coffee\u00ae Espresso Maker -  Making Capuccino & Latte",
+                "description": "Make espresso, cappuccino and lattes like a true barista. The Mr. Coffee\u00ae Caf\u00e9 Espresso uses a 15-bar pump system that brews rich, creme-topped espresso with impressive results and milk froth for creamy cappuccinos and lattes.",
+                "author": "Mr. Coffee",
+                "mediaDuration": 67,
+                "prettyDuration": "00:01:07",
+                "views": "890",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "83093935",
+            "url": "\/mr-coffee\/mr-coffee-espresso-maker-making-capuccino-latte\/83093935-83094967"
+        },
+        {
+            "id": "83094961",
+            "title": "Coffee at Home with the Mr. Coffee\u00ae Single Cup Coffeemaker with Built-in Grinder",
+            "date_created": "1462558184",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Enjoying your coffee at home is as easy as can be with the Mr. Coffee\u00ae Single Cup Coffeemaker with Built-in Grinder.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/eJP3SmboSNs\/hqdefault.jpg",
+                "uploadDate": 1462558184,
+                "videoId": "eJP3SmboSNs",
+                "title": "Coffee at Home with the Mr. Coffee\u00ae Single Cup Coffeemaker with Built-in Grinder",
+                "description": "Enjoying your coffee at home is as easy as can be with the Mr. Coffee\u00ae Single Cup Coffeemaker with Built-in Grinder.",
+                "author": "Mr. Coffee",
+                "mediaDuration": 32,
+                "prettyDuration": "00:00:32",
+                "views": "342"
+            },
+            "parentId": "83093935",
+            "url": "\/mr-coffee\/coffee-at-home-with-the-mr-coffee-single-cup-coffeemaker-with-built-in-grinder\/83093935-83094961"
+        },
+        {
+            "id": "83094973",
+            "title": "Mr. Coffee\u00ae Single Cup Coffeemaker with Built-in Grinder Raspberries Cream Iced Coffee",
+            "date_created": "1457375166",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "On-the-Go has never tasted so delicious! This Single Cup brewer is now available with an enhanced built-in-grinder, creating the most fresh and flavorful single cup of coffee available as you rush off to start the day.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/1_lBmuN7h-w\/hqdefault.jpg",
+                "uploadDate": 1457375166,
+                "videoId": "1_lBmuN7h-w",
+                "title": "Mr. Coffee\u00ae Single Cup Coffeemaker with Built-in Grinder Raspberries Cream Iced Coffee",
+                "description": "On-the-Go has never tasted so delicious! This Single Cup brewer is now available with an enhanced built-in-grinder, creating the most fresh and flavorful single cup of coffee available as you rush off to start the day.",
+                "author": "Mr. Coffee",
+                "mediaDuration": 35,
+                "prettyDuration": "00:00:35",
+                "views": "381",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "83093935",
+            "url": "\/mr-coffee\/mr-coffee-single-cup-coffeemaker-with-built-in-grinder-raspberries-cream-iced-coffee\/83093935-83094973"
+        },
+        {
+            "id": "83094981",
+            "title": "Mr. Coffee\u00ae Tea Maker and Kettle",
+            "date_created": "1449079697",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "A must-have for tea lovers who enjoy the ultimate at-home steeping experience using loose tea leaves or tea bags!\nThis Mr. Coffee\u00ae Tea Maker + Kettle creates delicious, custom flavor tea infusions with exactness of taste, depending on the type of tea.  As a kettle you can boil water to create instant beverages and meals.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/4uGRYrBHZ94\/hqdefault.jpg",
+                "uploadDate": 1449079697,
+                "videoId": "4uGRYrBHZ94",
+                "title": "Mr. Coffee\u00ae Tea Maker and Kettle",
+                "description": "A must-have for tea lovers who enjoy the ultimate at-home steeping experience using loose tea leaves or tea bags!\nThis Mr. Coffee\u00ae Tea Maker + Kettle creates delicious, custom flavor tea infusions with exactness of taste, depending on the type of tea.  As a kettle you can boil water to create instant beverages and meals.",
+                "author": "Mr. Coffee",
+                "mediaDuration": 41,
+                "prettyDuration": "00:00:41",
+                "views": "2103",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "83093935",
+            "url": "\/mr-coffee\/mr-coffee-tea-maker-and-kettle\/83093935-83094981"
+        },
+        {
+            "id": "83094949",
+            "title": "Mr. Coffee\u00ae Pump Espresso Maker - ECMP50-RB -  How to Brew",
+            "date_created": "1476380046",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Make espresso, cappuccino and lattes like a true barista. The Mr. Coffee\u00ae Caf\u00e9 Espresso uses a 15-bar pump system that brews rich, creme-topped espresso with impressive results and milk froth for creamy cappuccinos and lattes.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/DjpAshxrP4w\/hqdefault.jpg",
+                "uploadDate": 1476380046,
+                "videoId": "DjpAshxrP4w",
+                "title": "Mr. Coffee\u00ae Pump Espresso Maker - ECMP50-RB -  How to Brew",
+                "description": "Make espresso, cappuccino and lattes like a true barista. The Mr. Coffee\u00ae Caf\u00e9 Espresso uses a 15-bar pump system that brews rich, creme-topped espresso with impressive results and milk froth for creamy cappuccinos and lattes.",
+                "author": "Mr. Coffee",
+                "mediaDuration": 60,
+                "prettyDuration": "00:01:00",
+                "views": "268",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "83093935",
+            "url": "\/mr-coffee\/mr-coffee-pump-espresso-maker-ecmp50-rb-how-to-brew\/83093935-83094949"
+        }
+    ]
+}

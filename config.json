@@ -5,7 +5,7 @@
     "theme": "tvpage",
     "disablePathToLower": true,
     "enableRobotsTXT": true,
-    "galleryChannelIds": "",
+    "galleryChannelIds": "136909161,139187739,83093931,83093935",
     "params": {
         "loginId": "1758799",
         "subfolder": "",
@@ -14,6 +14,20 @@
         "player": {
             "playback": {
                 "autonext": true
+            }
+        },
+        "hub": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "videos.cirklon.com"
             }
         }
     }

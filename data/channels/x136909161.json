@@ -1,0 +1,19 @@
+{
+    "title": "Standard Test",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1515462644",
+    "date_modified": "1515462688",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "136909161",
+    "loginId": "1758799",
+    "entityType": "3",
+    "titleTextEncoded": "Standard-Test",
+    "category": null,
+    "duration": null,
+    "settings": "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}",
+    "transcripts": null
+}
